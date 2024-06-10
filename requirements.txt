@@ -64,4 +64,4 @@ validators==0.28.3
 watchdog==4.0.1
 Werkzeug==3.0.3
 wrapt==1.12.1
-numpy==1.21.2
+numpy>=1.19.3
